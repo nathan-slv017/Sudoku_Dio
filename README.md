@@ -47,5 +47,3 @@ Algumas combinações de candidatos eliminam possibilidades em outras células.
 
 ---
 
-## 📑 Exemplo de Grade
-
